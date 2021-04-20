@@ -1,0 +1,13 @@
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.csprojAssemblyReference.cache
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.AssemblyInfo.cs
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\bin\Debug\netcoreapp3.1\Assessment 2 - Program.exe
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\bin\Debug\netcoreapp3.1\Assessment 2 - Program.deps.json
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\bin\Debug\netcoreapp3.1\Assessment 2 - Program.runtimeconfig.json
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\bin\Debug\netcoreapp3.1\Assessment 2 - Program.runtimeconfig.dev.json
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\bin\Debug\netcoreapp3.1\Assessment 2 - Program.dll
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\bin\Debug\netcoreapp3.1\Assessment 2 - Program.pdb
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.dll
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.pdb
+C:\Users\harry\OneDrive\Harry\University - Y1\B - Object Oriented Programming\Assessment 2\Assessment 2 - Program\obj\Debug\netcoreapp3.1\Assessment 2 - Program.genruntimeconfig.cache
